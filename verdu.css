@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(196, 206, 206);
+}
+h1{
+    color: rgb(50, 68, 74);
+    margin: 20px;
+}
+h2{
+    color: rgb(83, 49, 121);
+    margin: 15px;
+}
+.promos{
+    color: rgb(36, 126, 77);
+    margin: 20px;
+}
+.contenedor3{
+    background-color: rgb(188, 159, 159);
+    width: 200px;
+    height: 260px;
+    border-radius: 10px 30px 70px 9px;
+    align-items: center;
+    margin: 16px;
+}
+
+
+.contenedor2{
+    background-color: rgb(255, 200, 222);
+    width: 560px;
+    height: 460px;
+    border-radius: 23px 100px 10px 9px;
+    align-items: center;
+    margin: 16px;
+}
+button{
+    background-color: rgb(194, 232, 156);
+    color: rgb(233, 33, 33);
+    border-radius: 7px;
+    padding: 4px;
+    border: 0;
+  align-items: center;
+  margin: left 10px;
